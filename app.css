@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(73, 24, 110);
+}
+
+h1 {
+    font-size: 15rem;
+    font-family: 'Pangolin', cursive;
+}
+
+.letter {
+    transform: color 2000ms;
+}
